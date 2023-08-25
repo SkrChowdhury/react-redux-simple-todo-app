@@ -10,7 +10,7 @@ const reducer = (state = initialState, action) => {
         status: action.payload,
       };
     case COLORCHANGED:
-      const { color, changeType } = state.payload;
+      const { color, changeType } = action.payload;
       switch (changeType) {
         case "added":
           return {
