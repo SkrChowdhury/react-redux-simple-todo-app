@@ -40,17 +40,6 @@
       "completed": false,
       "id": 7,
       "color": "green"
-    },
-    {
-      "text": "Test",
-      "completed": false,
-      "id": 8
-    },
-    {
-      "text": "Hello",
-      "completed": false,
-      "id": 9,
-      "color": "green"
     }
   ]
 }

@@ -1,4 +1,4 @@
-import { added, allCompleted, clearCompleted } from "../redux/todos/actions";
+import { allCompleted, clearCompleted } from "../redux/todos/actions";
 
 import addTodo from "../redux/todos/thunk/addTodo";
 import noteImage from "../assets/images/notes.png";
